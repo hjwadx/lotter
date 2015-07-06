@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/fm.jihua.common-91108101f20201192f6254f0e3db6da6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/umeng_sdk-dd3cf3d8acaae4846a16778029c04a7f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/actionbarsherlock-0d375566c8230e7a13cd038e17d0e3eb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/android-support-v4-512de0d2090180410041d77fc7db3543.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/snowdemo-7da7f3b8fb2f37c34c200c6cde054702.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/snowdemo-eaf853627168b87d7c841055e7251064.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/fm.jihua.common.ui-d753da225086137425c1a98a01de1981.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/wheel-35637eb567ed4806f1783aa916fec519.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../cet-4/actionbarsherlock/actionbarsherlock.iml" filepath="$PROJECT_DIR$/../cet-4/actionbarsherlock/actionbarsherlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.hjw.lottery.iml" filepath="$PROJECT_DIR$/com.hjw.lottery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cet-4/fm.jihua.common/fm.jihua.common.iml" filepath="$PROJECT_DIR$/../cet-4/fm.jihua.common/fm.jihua.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cet-4/fm.jihua.common.ui/fm.jihua.common.ui.iml" filepath="$PROJECT_DIR$/../cet-4/fm.jihua.common.ui/fm.jihua.common.ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wheel/wheel/wheel.iml" filepath="$PROJECT_DIR$/../wheel/wheel/wheel.iml" />
+    </modules>
+  </component>
+</project>
+
